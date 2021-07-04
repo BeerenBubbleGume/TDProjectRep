@@ -1,0 +1,50 @@
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\DebugGame\TowerDeffence\Definitions.TowerDeffence.h
+C:\Users\drhaz\Desktop\TowerDeffence\Source\TowerDeffence\Public\Towers/BasicTower_CPP.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagsSettings.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagsManager.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagsManager.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagsSettings.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Source\TowerDeffence/CPP_TowersProjectile.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDeffence\CPP_TowersProjectile.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDeffence\BasicTower_CPP.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\GeneratedCodeHelpers.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakFieldPtr.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedStruct.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UserDefinedStruct.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetArrayLibrary.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Net\Core\Public\Net/Core/PushModel/PushModel.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetArrayLibrary.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintSetLibrary.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintSetLibrary.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintMapLibrary.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintMapLibrary.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/DataTableFunctionLibrary.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTableFunctionLibrary.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
