@@ -1,0 +1,28 @@
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\DebugGame\TowerDeffence\Definitions.TowerDeffence.h
+C:\Users\drhaz\Desktop\TowerDeffence\Source\TowerDeffence\Public\Controllers/BuildingsMaster/Towers/TD_StandartTower_CPP.h
+C:\Users\drhaz\Desktop\TowerDeffence\Source\TowerDeffence\Public\Controllers/BuildingsMaster/Towers/TDTowersBuildingMaster.h
+C:\Users\drhaz\Desktop\TowerDeffence\Source\TowerDeffence\Public\Controllers/TDBuildingMaster_CPP.h
+C:\Users\drhaz\Desktop\TowerDeffence\Source\TowerDeffence\Public\Controllers\MainPlayerController_CPP.h
+A:\Epic Games\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SGraphActionMenu.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Views/STreeView.h
+C:\Users\drhaz\Desktop\TowerDeffence\Source\TowerDeffence\Public\Instances/TD_GameState_CPP.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameState.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameState.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDeffence\TD_GameState_CPP.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Source\TowerDeffence\Public\UI/MainMenuHUD.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDeffence\MainMenuHUD.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDeffence\MainPlayerController_CPP.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDeffence\TDBuildingMaster_CPP.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDeffence\TDTowersBuildingMaster.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDeffence\TD_StandartTower_CPP.generated.h

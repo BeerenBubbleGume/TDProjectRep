@@ -13,7 +13,6 @@ void SWidgetShopUI_CPP::Construct(const FArguments& InArgs)
 	bCanSupportFocus = true;
 
 	OwningHUD = InArgs._OwningHUD;
-	ConstructionPreviewRef = InArgs._ConstructionPreviewRef;
 	
 	const FMargin ContentPadding = FMargin(5.f, 5.f);
 	const FMargin ButtonPadding = FMargin(5.f);
@@ -316,7 +315,7 @@ FReply SWidgetShopUI_CPP::OnClickedByTower_1() const
 {
 	if(OwningHUD.IsValid())
 	{
-		ConstructionPreviewRef->ConstructBuilding(ATD_StandartTower_CPP::StaticClass());
+		//ConstructionPreviewRef->ConstructBuilding(ATD_StandartTower_CPP::StaticClass());
 	}
 	return FReply::Handled();
 }

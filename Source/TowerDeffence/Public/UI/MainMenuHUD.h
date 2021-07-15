@@ -20,6 +20,8 @@ public:
 	void ShowMyHUD();
 	void ShowHP();
 	void RemoveShop();
+
+	TSharedPtr<class SWidgetShopUI_CPP> UShopWidget;
 	
 protected:
 	

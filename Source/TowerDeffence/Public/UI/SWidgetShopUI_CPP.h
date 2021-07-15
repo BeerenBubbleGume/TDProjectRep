@@ -17,7 +17,7 @@ public:
 
 	SLATE_ARGUMENT(TWeakObjectPtr<class AMainMenuHUD>, OwningHUD)
 
-	SLATE_ARGUMENT(TWeakObjectPtr<ATDPreviewBuilding_CPP>, ConstructionPreviewRef)
+	//SLATE_ARGUMENT(TWeakObjectPtr<ATDPreviewBuilding_CPP>, ConstructionPreviewRef)
 
 	SLATE_END_ARGS()
 
@@ -25,7 +25,7 @@ public:
 
 	TWeakObjectPtr<class AMainMenuHUD> OwningHUD;
 
-	TWeakObjectPtr<ATDPreviewBuilding_CPP> ConstructionPreviewRef;
+	//TSharedRef<ATDPreviewBuilding_CPP> ConstructionPreviewRef;
 
 	FReply OnPlayClicked() const;
 	FReply OnClickedByTower_1() const;

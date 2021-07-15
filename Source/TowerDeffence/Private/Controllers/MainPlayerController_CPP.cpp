@@ -9,6 +9,7 @@
 #include "Components/DecalComponent.h"
 #include "Kismet/GameplayStatics.h"
 #include "UI/MainMenuHUD.h"
+#include "UI/TDShopUWidget_CPP.h"
 
 AMainPlayerController_CPP::AMainPlayerController_CPP()
 {
@@ -23,8 +24,8 @@ void AMainPlayerController_CPP::BeginPlay()
 
 void AMainPlayerController_CPP::SpawnWidgets()
 {
-	//WidgetRef = CreateWidget<AMainMenuHUD>(this, AMainMenuHUD::StaticClass(), "ConstructionPreview");
-	//HUD_ShopMenu = WidgetRef;
+	//WidgetRef = CreateWidget<AMainMenuHUD>(this, UTDShopUWidget_CPP::StaticClass(), "ConstructionPreview");
+	HUD_ShopMenu = WidgetRef;
 }
 
 void AMainPlayerController_CPP::PlayerTick(float DeltaTime)

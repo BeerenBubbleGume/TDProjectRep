@@ -1,0 +1,55 @@
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\DebugGame\TowerDeffence\Definitions.TowerDeffence.h
+C:\Users\drhaz\Desktop\TowerDeffence\Source\TowerDeffence\Public\Controllers/TDPreviewBuilding_CPP.h
+C:\Users\drhaz\Desktop\TowerDeffence\Source\TowerDeffence\Public\Controllers\TDBuildingMaster_CPP.h
+C:\Users\drhaz\Desktop\TowerDeffence\Source\TowerDeffence\Public\Controllers\MainPlayerController_CPP.h
+A:\Epic Games\UE_4.26\Engine\Source\Editor\GraphEditor\Public\SGraphActionMenu.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Views/STreeView.h
+C:\Users\drhaz\Desktop\TowerDeffence\Source\TowerDeffence\Public\Instances/TD_GameState_CPP.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameState.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameState.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDeffence\TD_GameState_CPP.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Source\TowerDeffence\Public\UI/MainMenuHUD.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDeffence\MainMenuHUD.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDeffence\MainPlayerController_CPP.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDeffence\TDBuildingMaster_CPP.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Source\TowerDeffence\Public\Controllers/TDConstructionInterface.h
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDeffence\TDConstructionInterface.generated.h
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDeffence\TDPreviewBuilding_CPP.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Developer\FunctionalTesting\Classes\FunctionalAITest.h
+A:\Epic Games\UE_4.26\Engine\Source\Developer\FunctionalTesting\Classes\FunctionalTest.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/StatisticalFloat.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\FunctionalTesting\FunctionalTest.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\AIModule\Classes\GenericTeamAgentInterface.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\GenericTeamAgentInterface.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\FunctionalTesting\FunctionalAITest.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\GameplayTasks\Classes\Tasks/GameplayTask_SpawnActor.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTaskOwnerInterface.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\GameplayTasks\Public\GameplayTaskTypes.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTaskOwnerInterface.generated.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTask.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakInterfacePtr.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTask.generated.h
+A:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTask_SpawnActor.generated.h

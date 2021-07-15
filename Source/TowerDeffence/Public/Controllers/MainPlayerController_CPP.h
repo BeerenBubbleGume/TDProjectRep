@@ -13,6 +13,7 @@
  * 
  */
 class ATDPreviewBuilding_CPP;
+class UTDShopUWidget_CPP;
 UCLASS()
 class TOWERDEFFENCE_API AMainPlayerController_CPP : public APlayerController
 {
@@ -27,15 +28,15 @@ public:
 	//TSharedRef<ATD_GameState_CPP> GameState;
 	//TSharedPtr<ATDPreviewBuilding_CPP> ConstructionPreviewRef;
 	AMainMenuHUD* WidgetRef;
-	//TSubclassOf<UUserWidget> MainMenuRef;
+	TSubclassOf<class UTDShopUWidget_CPP> ShopMenuRef;
 	AMainMenuHUD* HUD_ShopMenu;
+	
 
 protected:
 	/** True if the controlled character should navigate to the mouse cursor. */
 	uint32 bMoveToMouseCursor : 1;
 
 	void SpawnWidgets();
-	
 
 	// Begin PlayerController interface
 	virtual void PlayerTick(float DeltaTime) override;

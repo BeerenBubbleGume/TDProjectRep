@@ -1,0 +1,3 @@
+C:\Users\drhaz\Desktop\TowerDeffence\Intermediate\Build\Win64\UE4Editor\DebugGame\TowerDeffence\Definitions.TowerDeffence.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+A:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
